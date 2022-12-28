@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/.vs/dwmhook/v16/ipch/AutoPCH/cbd4c176af416b51
+/.vs/dwmhook/v16
+/.vs/DWM_Hook/v16
+/.vs
+/dwmhook/x64/Debug
+/x64/Debug
